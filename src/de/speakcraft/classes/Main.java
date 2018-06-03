@@ -3,7 +3,7 @@ package de.speakcraft.classes;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import de.speakcraft.commands.ban;
+import de.speakcraft.commands.Ban;
 
 public class Main extends JavaPlugin{
 	public static String Prefix = ""
@@ -19,7 +19,7 @@ public class Main extends JavaPlugin{
 		
 		
 		
-		Bukkit.getPluginManager().registerEvents(new ban(), this);
+		Bukkit.getPluginManager().registerEvents(new Ban(), this);
 		
 		
 		
