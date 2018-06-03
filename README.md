@@ -1,2 +1,2 @@
 # SpeakCraft
-Das "Addon" umfasst eine Art Firewall die wenn man zB jemanden auf TS bannt der User auch auf den Servern wie Minecraft gebannt wird.
+Das "Addon" umfasst eine Art Firewall. Mit der man User vom Minecraft und TeamSpeak Server gleichzeitig bannen kann. 
